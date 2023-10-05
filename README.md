@@ -1,5 +1,5 @@
 # Mac app for temporarily disable MS Defender
-The intention of this app is to improve Xcode and the Mac's performance by disabling MS Defender, which slows down the computer a lot.
+The intention of this app is to improve the Mac's performance, and in particular Xcode's by disabling MS Defender, which slows down the computer a lot.
 
 The app was created in Automator. You may run the app as is and it will temporarily disable MS Defender's real-time scannings + add some Xcode related processes to the scanning exclusions list.
 
